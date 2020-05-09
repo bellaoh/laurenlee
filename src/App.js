@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://bellaoh.github.io/lauren/resumeData.json',
+      url:'https://bellaoh.github.io/lauren.github.io/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
