@@ -1,0 +1,233 @@
+{
+  "main": {
+    "name":"Lauren Lee",
+    "occupation":"(Your Occupation Here)",
+    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "image":"profilepic.jpg",
+    "bio":"hello",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.laurenlee.com",
+    "resumedownload":"http://laurenlee.com",
+    "social":[]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University?",
+        "degree":"Masters in Beer tasting",
+        "graduated":"April 2007",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      },
+      {
+        "school":"School #1 Maybe College?",
+        "degree":"What did you study 101",
+        "graduated":"March 2003",
+        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"Awesome Design Studio",
+        "title":"Senior UX God ",
+        "years":"March 2010 - Present",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2007 - February 2010",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Illustrator",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+
+    "projects": [
+      {
+        "title":"Our first anniversary date!",
+        "image":"IMG_7218.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
+      },
+      {
+        "title":"Omi...good ol' days.",
+        "image":"IMG_7165.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
+      },
+      {
+        "title":"Freshman year us:)",
+        "image":"IMG_7607.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
+
+      },
+      {
+        "title":"Late night talk - Owen Lounge",
+        "image":"IMG_7910.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
+      },
+      {
+       "title":"'Study' nights - Wilson Lounge....MEMS",
+       "image":"IMG_4531.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Probably a selfie from the one day we went to WIC together LOL",
+       "image":"IMG_4650.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Date at a random, isolated poke bowl restaurant HAHA",
+       "image":"IMG_1358.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"GCF Candyland banquet!",
+       "image":"IMG_7452.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Candid pretty photo of you at Toronto 2019 :)",
+       "image":"IMG_2067.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"'Brunch' and Bible study time at Toronto. Remember the cashier here with the cool accent? LOL",
+       "image":"IMG_8619.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Another GCF banquet! Forgot the theme though oops..",
+       "image":"IMG_2809.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Whole Foods is the best place for dessert.",
+       "image":"IMG_8106.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"GCF 2019 fall welcome BBQ!",
+       "image":"IMG_5189.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Selfie before going to the cider mill hehe",
+       "image":"IMG_5845.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"During our GCF small group trip!! My friend is so pretty :,)",
+       "image":"IMG_3093.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"At AA for GCF+LGM Friday night - love your pose LOL.",
+       "image":"IMG_6144.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"When you willingly watched a football game with me after RY in the cold...gamsdongs",
+       "image":"IMG_6229.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"GCF fall banquet 2019! Edelweiss Kingdom ay",
+       "image":"IMG_6513.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Thank you so much for being my photographer at graduation :,0",
+       "image":"IMG_6766.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Hands down one of my favorite photos of you.(Thank you photographer Jeana!!!)",
+       "image":"IMG_8613.jpg"
+     }
+   ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.",
+        "user":"Joshua 1:9 (Both of our favorite verses at one point)"
+      },
+      {
+        "text":"For I am sure that neither death nor life, nor angels nor rulers, nor things present for things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.",
+        "user":"Romans 8:38-39 (Throwback to our bible study on the book of Romans)"
+      }
+    ]
+  }
+}
