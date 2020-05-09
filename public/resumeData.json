@@ -118,34 +118,80 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Our anniversary date",
+        "image":"IMG_7218.jpg"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Omi...good ol' days",
+        "image":"IMG_7165.jpg"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Freshman year us:)",
+        "image":"IMG_7607.jpg"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Late night talk - Owen Lounge",
+        "image":"IMG_7910.jpg"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"'Study' nights - Wilson Lounge",
+        "image":"IMG_4531.jpg"
+      },
+      {
+        "title":"Probably a selfie from the one day we went to WIC together LOL",
+        "image":"IMG_4650.jpg"
+      },
+      {
+        "title":"Poke bowl date",
+        "image":"IMG_1358.jpg"
+      },
+      {
+        "title":"GCF Candyland banquet!",
+        "image":"IMG_7452.jpg"
+      },
+      {
+        "title":"Candid pretty photo of you at Toronto 2019 :)",
+        "image":"IMG_2067.jpg"
+      },
+      {
+        "title":"'Brunch' and Bible study time at Toronto",
+        "image":"IMG_8619.jpg"
+      },
+      {
+        "title":"Another GCF banquet! Forgot the theme though oops..",
+        "image":"IMG_2809.jpg"
+      },
+      {
+        "title":"Whole Foods is the best place for dessert.",
+        "image":"IMG_8106.jpg"
+      },
+      {
+        "title":"GCF 2019 fall welcome BBQ!",
+        "image":"IMG_5189.jpg"
+      },
+      {
+        "title":"Selfie before going to the cider mill hehe",
+        "image":"IMG_5845.jpg"
+      },
+      {
+        "title":"During our GCF small group trip!! My friend is so pretty :,)",
+        "image":"IMG_3093.jpg"
+      },
+      {
+        "title":"At AA for GCF+LGM Friday night - love your pose LOL.",
+        "image":"IMG_6144.jpg"
+      },
+      {
+        "title":"When you willingly watched a football game with me after RY in the cold...gamsdongs",
+        "image":"IMG_6229.jpg"
+      },
+      {
+        "title":"GCF fall banquet 2019! Edelweiss Kingdom",
+        "image":"IMG_6513.jpg"
+      },
+      {
+        "title":"Thank you so much for being my photographer at graduation :,0",
+        "image":"IMG_6766.jpg"
       }
     ]
   },
