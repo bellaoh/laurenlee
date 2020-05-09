@@ -4,7 +4,7 @@
     "occupation":"(Your Occupation Here)",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"hello",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -16,43 +16,7 @@
     },
     "website": "http://www.laurenlee.com",
     "resumedownload":"http://laurenlee.com",
-    "social":[
-      {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
-      }
-    ]
+    "social":[]
   },
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
@@ -86,10 +50,6 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
-      },
-      {
         "name":"Illustrator",
         "level":"55%"
       },
@@ -116,94 +76,157 @@
     ]
   },
   "portfolio":{
+
     "projects": [
       {
-        "title":"Our anniversary date",
-        "image":"IMG_7218.jpg"
+        "title":"Our first anniversary date!",
+        "image":"IMG_7218.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
       },
       {
-        "title":"Omi...good ol' days",
-        "image":"IMG_7165.jpg"
+        "title":"Omi...good ol' days.",
+        "image":"IMG_7165.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
       },
       {
         "title":"Freshman year us:)",
-        "image":"IMG_7607.jpg"
+        "image":"IMG_7607.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
+
       },
       {
         "title":"Late night talk - Owen Lounge",
-        "image":"IMG_7910.jpg"
+        "image":"IMG_7910.jpg",
+        "height":"150px",
+        "width":"200px",
+        "crop":"fill"
       },
       {
-        "title":"'Study' nights - Wilson Lounge",
-        "image":"IMG_4531.jpg"
-      },
-      {
-        "title":"Probably a selfie from the one day we went to WIC together LOL",
-        "image":"IMG_4650.jpg"
-      },
-      {
-        "title":"Poke bowl date",
-        "image":"IMG_1358.jpg"
-      },
-      {
-        "title":"GCF Candyland banquet!",
-        "image":"IMG_7452.jpg"
-      },
-      {
-        "title":"Candid pretty photo of you at Toronto 2019 :)",
-        "image":"IMG_2067.jpg"
-      },
-      {
-        "title":"'Brunch' and Bible study time at Toronto",
-        "image":"IMG_8619.jpg"
-      },
-      {
-        "title":"Another GCF banquet! Forgot the theme though oops..",
-        "image":"IMG_2809.jpg"
-      },
-      {
-        "title":"Whole Foods is the best place for dessert.",
-        "image":"IMG_8106.jpg"
-      },
-      {
-        "title":"GCF 2019 fall welcome BBQ!",
-        "image":"IMG_5189.jpg"
-      },
-      {
-        "title":"Selfie before going to the cider mill hehe",
-        "image":"IMG_5845.jpg"
-      },
-      {
-        "title":"During our GCF small group trip!! My friend is so pretty :,)",
-        "image":"IMG_3093.jpg"
-      },
-      {
-        "title":"At AA for GCF+LGM Friday night - love your pose LOL.",
-        "image":"IMG_6144.jpg"
-      },
-      {
-        "title":"When you willingly watched a football game with me after RY in the cold...gamsdongs",
-        "image":"IMG_6229.jpg"
-      },
-      {
-        "title":"GCF fall banquet 2019! Edelweiss Kingdom",
-        "image":"IMG_6513.jpg"
-      },
-      {
-        "title":"Thank you so much for being my photographer at graduation :,0",
-        "image":"IMG_6766.jpg"
-      }
-    ]
+       "title":"'Study' nights - Wilson Lounge....MEMS",
+       "image":"IMG_4531.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Probably a selfie from the one day we went to WIC together LOL",
+       "image":"IMG_4650.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Date at a random, isolated poke bowl restaurant HAHA",
+       "image":"IMG_1358.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"GCF Candyland banquet!",
+       "image":"IMG_7452.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Candid pretty photo of you at Toronto 2019 :)",
+       "image":"IMG_2067.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"'Brunch' and Bible study time at Toronto. Remember the cashier here with the cool accent? LOL",
+       "image":"IMG_8619.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Another GCF banquet! Forgot the theme though oops..",
+       "image":"IMG_2809.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Whole Foods is the best place for dessert.",
+       "image":"IMG_8106.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"GCF 2019 fall welcome BBQ!",
+       "image":"IMG_5189.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Selfie before going to the cider mill hehe",
+       "image":"IMG_5845.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"During our GCF small group trip!! My friend is so pretty :,)",
+       "image":"IMG_3093.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"At AA for GCF+LGM Friday night - love your pose LOL.",
+       "image":"IMG_6144.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"When you willingly watched a football game with me after RY in the cold...gamsdongs",
+       "image":"IMG_6229.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"GCF fall banquet 2019! Edelweiss Kingdom ay",
+       "image":"IMG_6513.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Thank you so much for being my photographer at graduation :,0",
+       "image":"IMG_6766.jpg",
+       "height":"150px",
+       "width":"200px",
+       "crop":"fill"
+     },
+     {
+       "title":"Hands down one of my favorite photos of you.(Thank you photographer Jeana!!!)",
+       "image":"IMG_8613.jpg"
+     }
+   ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Have I not commanded you? Be strong and courageous. Do not be frightened, and do not be dismayed, for the Lord your God is with you wherever you go.",
+        "user":"Joshua 1:9 (Both of our favorite verses at one point)"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"For I am sure that neither death nor life, nor angels nor rulers, nor things present for things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.",
+        "user":"Romans 8:38-39 (Throwback to our bible study on the book of Romans)"
       }
     ]
   }

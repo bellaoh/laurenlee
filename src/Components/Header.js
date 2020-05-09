@@ -22,12 +22,10 @@ class Header extends Component {
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
 
          <ul id="nav" className="nav">
-            <li className="current"><a className="smoothscroll" href="#home">Home</a></li>
-            <li><a className="smoothscroll" href="#about">About</a></li>
-	         <li><a className="smoothscroll" href="#resume">Resume</a></li>
-            <li><a className="smoothscroll" href="#portfolio">Works</a></li>
-            <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li>
-            <li><a className="smoothscroll" href="#contact">Contact</a></li>
+            <li className="current"><a className="smoothscroll" href="#home">Introduction</a></li>
+            <li><a className="smoothscroll" href="#about">Letter</a></li>
+            <li><a className="smoothscroll" href="#portfolio">Collage</a></li>
+            <li><a className="smoothscroll" href="#testimonials">Meaningful Verses</a></li>
          </ul>
 
       </nav>
@@ -35,9 +33,9 @@ class Header extends Component {
       <div className="row banner">
          <div className="banner-text">
             <h1 className="responsive-headline">Lauren's Birthday Webpage</h1>
-            <h3>Happy 22nd birthday, Lauren! Because I can't physically mail a letter
-            to you right now, I thought I'd replace it by building a website HAHA.
-            Hope you enjoy! :)</h3>
+            <h3>Lauren, happy 22nd birthday!!!!! I was initially planning to mail you a regular
+            handwritten letter, but COVID-19 gave me inspiration to make it virtual by
+            building a website instead HAHA. Hope you enjoy! :)</h3>
             <hr />
          </div>
       </div>
